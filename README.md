@@ -1,8 +1,6 @@
-# TallerWeb
-Web diseñada con Bootstrap 4 para el taller del curso de ingenieria web.
+# Taller de Ingenieria Web
 
-Celular 
-(https://raw.githubusercontent.com/Francisco567/TallerWeb/blob/master/img/cellphone.png)
+Página web creada a modo de ejemplo para el taller de Bootstrap 4 dirigido a alumnos del 6to ciclo de la carrera académico profesional de Ingeniería de Sistemas de la Universidad César Vallejo###.
 
-![Aquí la descripción de la imagen por si no carga]
-(https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png)
+### Página Web Diseñada
+![taller](https://github.com/Francisco567/TallerWeb/blob/master/img/taller.png)
